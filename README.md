@@ -1,16 +1,13 @@
+# Hi, I'm Priyanka Rajput 👋
 
-# Hi 👋 I'm Priyanka Rajput
+💻 CSE Student at CGC Landran  
+📚 Currently learning Java and Data Structures & Algorithms  
+🚀 Interested in Software Development and Hackathons  
 
-💻 Computer Science Student
+## Projects
+- Library Management System (C++)
+- Student Management System (C++)
+- Expense Tracker System (C++)
 
-Skills:
-- JAVA
-- C
-- C++
-
-Currently Learning:
-- Data Structures
-- Algorithms
-
-Goal:
-To become a Software Engineer
+## Skills
+C | C++ | Java | Problem Solving
